@@ -1,0 +1,13 @@
+com.di1shuai.platform_device_id-core-1.6.0-0 C:\Users\pc\.gradle\caches\transforms-3\3fedf5842523cd9fc298102904285530\transformed\core-1.6.0\res
+com.di1shuai.platform_device_id-jetified-window-java-1.0.0-beta04-1 C:\Users\pc\.gradle\caches\transforms-3\442de09ab92293c78c5c19aacbbd7f12\transformed\jetified-window-java-1.0.0-beta04\res
+com.di1shuai.platform_device_id-jetified-window-1.0.0-beta04-2 C:\Users\pc\.gradle\caches\transforms-3\559ec9c37ecef2466be623f3f873faf1\transformed\jetified-window-1.0.0-beta04\res
+com.di1shuai.platform_device_id-jetified-annotation-experimental-1.1.0-3 C:\Users\pc\.gradle\caches\transforms-3\a8655e9331c960da978c657e5cfd26c7\transformed\jetified-annotation-experimental-1.1.0\res
+com.di1shuai.platform_device_id-main-4 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\platform_device_id-1.0.1\android\src\main\res
+com.di1shuai.platform_device_id-release-5 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\platform_device_id-1.0.1\android\src\release\res
+com.di1shuai.platform_device_id-packaged_res-6 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\device_info\intermediates\packaged_res\release
+com.di1shuai.platform_device_id-pngs-7 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\platform_device_id\generated\res\pngs\release
+com.di1shuai.platform_device_id-resValues-8 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\platform_device_id\generated\res\resValues\release
+com.di1shuai.platform_device_id-rs-9 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\platform_device_id\generated\res\rs\release
+com.di1shuai.platform_device_id-mergeReleaseResources-10 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\platform_device_id\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.di1shuai.platform_device_id-mergeReleaseResources-11 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\platform_device_id\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.di1shuai.platform_device_id-merged_res-12 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\platform_device_id\intermediates\merged_res\release

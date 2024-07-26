@@ -1,0 +1,12 @@
+com.iyaffle.launchreview.launch_review-core-1.6.0-0 C:\Users\pc\.gradle\caches\transforms-3\3fedf5842523cd9fc298102904285530\transformed\core-1.6.0\res
+com.iyaffle.launchreview.launch_review-jetified-window-java-1.0.0-beta04-1 C:\Users\pc\.gradle\caches\transforms-3\442de09ab92293c78c5c19aacbbd7f12\transformed\jetified-window-java-1.0.0-beta04\res
+com.iyaffle.launchreview.launch_review-jetified-window-1.0.0-beta04-2 C:\Users\pc\.gradle\caches\transforms-3\559ec9c37ecef2466be623f3f873faf1\transformed\jetified-window-1.0.0-beta04\res
+com.iyaffle.launchreview.launch_review-jetified-annotation-experimental-1.1.0-3 C:\Users\pc\.gradle\caches\transforms-3\a8655e9331c960da978c657e5cfd26c7\transformed\jetified-annotation-experimental-1.1.0\res
+com.iyaffle.launchreview.launch_review-main-4 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\launch_review-3.0.1\android\src\main\res
+com.iyaffle.launchreview.launch_review-release-5 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\launch_review-3.0.1\android\src\release\res
+com.iyaffle.launchreview.launch_review-pngs-6 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\launch_review\generated\res\pngs\release
+com.iyaffle.launchreview.launch_review-resValues-7 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\launch_review\generated\res\resValues\release
+com.iyaffle.launchreview.launch_review-rs-8 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\launch_review\generated\res\rs\release
+com.iyaffle.launchreview.launch_review-mergeReleaseResources-9 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\launch_review\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.iyaffle.launchreview.launch_review-mergeReleaseResources-10 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\launch_review\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.iyaffle.launchreview.launch_review-merged_res-11 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\launch_review\intermediates\merged_res\release

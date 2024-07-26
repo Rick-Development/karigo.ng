@@ -1,0 +1,12 @@
+com.tekartik.sqflite-core-1.6.0-0 C:\Users\pc\.gradle\caches\transforms-3\3fedf5842523cd9fc298102904285530\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-1 C:\Users\pc\.gradle\caches\transforms-3\442de09ab92293c78c5c19aacbbd7f12\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-2 C:\Users\pc\.gradle\caches\transforms-3\559ec9c37ecef2466be623f3f873faf1\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-3 C:\Users\pc\.gradle\caches\transforms-3\a8655e9331c960da978c657e5cfd26c7\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-main-4 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\src\release\res
+com.tekartik.sqflite-pngs-6 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\sqflite\intermediates\merged_res\release

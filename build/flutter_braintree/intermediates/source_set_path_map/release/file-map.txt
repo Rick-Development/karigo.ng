@@ -1,0 +1,43 @@
+com.example.flutter_braintree-jetified-drop-in-6.13.0-0 C:\Users\pc\.gradle\caches\transforms-3\07354641e38d8480840bb10536df5881\transformed\jetified-drop-in-6.13.0\res
+com.example.flutter_braintree-jetified-appcompat-resources-1.4.0-alpha03-1 C:\Users\pc\.gradle\caches\transforms-3\10f38f3316c0c9c84d88a0c1ba8b69e2\transformed\jetified-appcompat-resources-1.4.0-alpha03\res
+com.example.flutter_braintree-jetified-braintree-core-4.38.2-2 C:\Users\pc\.gradle\caches\transforms-3\1595c9def6c81acaff63c6c49569c7f0\transformed\jetified-braintree-core-4.38.2\res
+com.example.flutter_braintree-jetified-card-form-5.4.0-3 C:\Users\pc\.gradle\caches\transforms-3\16d5cdf1d6029de6f94b55d70785bea8\transformed\jetified-card-form-5.4.0\res
+com.example.flutter_braintree-appcompat-1.4.0-alpha03-4 C:\Users\pc\.gradle\caches\transforms-3\1b8f60d31166cce4ba673273cfbbc01d\transformed\appcompat-1.4.0-alpha03\res
+com.example.flutter_braintree-jetified-lifecycle-runtime-ktx-2.4.1-5 C:\Users\pc\.gradle\caches\transforms-3\1d517aad1a673819562cccac4553a422\transformed\jetified-lifecycle-runtime-ktx-2.4.1\res
+com.example.flutter_braintree-jetified-play-services-wallet-19.1.0-6 C:\Users\pc\.gradle\caches\transforms-3\1fdd3125e2e423401ace3d697738a95c\transformed\jetified-play-services-wallet-19.1.0\res
+com.example.flutter_braintree-jetified-emoji2-1.0.0-alpha03-7 C:\Users\pc\.gradle\caches\transforms-3\3f77d2364af69048e39ffe7f66511405\transformed\jetified-emoji2-1.0.0-alpha03\res
+com.example.flutter_braintree-jetified-window-java-1.0.0-beta04-8 C:\Users\pc\.gradle\caches\transforms-3\442de09ab92293c78c5c19aacbbd7f12\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_braintree-jetified-savedstate-1.1.0-9 C:\Users\pc\.gradle\caches\transforms-3\47aca0ee98799e4a3cba1f6bde2e1a9d\transformed\jetified-savedstate-1.1.0\res
+com.example.flutter_braintree-constraintlayout-2.0.4-10 C:\Users\pc\.gradle\caches\transforms-3\4c5e5657d22a356fe8654be88cb51517\transformed\constraintlayout-2.0.4\res
+com.example.flutter_braintree-cardview-1.0.0-11 C:\Users\pc\.gradle\caches\transforms-3\4d70712b75a287306f391cbd551c6fc1\transformed\cardview-1.0.0\res
+com.example.flutter_braintree-lifecycle-runtime-2.4.1-12 C:\Users\pc\.gradle\caches\transforms-3\4df672108d873ad6edaa550200109b1d\transformed\lifecycle-runtime-2.4.1\res
+com.example.flutter_braintree-jetified-flexbox-3.0.0-13 C:\Users\pc\.gradle\caches\transforms-3\50617fa5f498def05743b098b915bd87\transformed\jetified-flexbox-3.0.0\res
+com.example.flutter_braintree-jetified-window-1.0.0-beta04-14 C:\Users\pc\.gradle\caches\transforms-3\559ec9c37ecef2466be623f3f873faf1\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_braintree-browser-1.5.0-15 C:\Users\pc\.gradle\caches\transforms-3\5ab41e4bf7caeb1d11760bcee7c6bfee\transformed\browser-1.5.0\res
+com.example.flutter_braintree-transition-1.2.0-16 C:\Users\pc\.gradle\caches\transforms-3\6491e0d8bdc4de44bfea5cbccf6dbacf\transformed\transition-1.2.0\res
+com.example.flutter_braintree-lifecycle-viewmodel-2.3.1-17 C:\Users\pc\.gradle\caches\transforms-3\7e1dbfefded0b0723e1da7b03ee3f0d0\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.flutter_braintree-jetified-viewpager2-1.0.0-18 C:\Users\pc\.gradle\caches\transforms-3\7ed294ef3a8eeaf9836415fc3158aac5\transformed\jetified-viewpager2-1.0.0\res
+com.example.flutter_braintree-jetified-lifecycle-process-2.4.0-alpha02-19 C:\Users\pc\.gradle\caches\transforms-3\80e6ee5ed283ef4f033178a0e40003cb\transformed\jetified-lifecycle-process-2.4.0-alpha02\res
+com.example.flutter_braintree-fragment-1.4.1-20 C:\Users\pc\.gradle\caches\transforms-3\a4d7e18d601f67cc34734c3086ff8046\transformed\fragment-1.4.1\res
+com.example.flutter_braintree-jetified-google-pay-4.38.2-21 C:\Users\pc\.gradle\caches\transforms-3\a518558d28b1c2e0d9e0bbd89205a118\transformed\jetified-google-pay-4.38.2\res
+com.example.flutter_braintree-jetified-annotation-experimental-1.1.0-22 C:\Users\pc\.gradle\caches\transforms-3\a8655e9331c960da978c657e5cfd26c7\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_braintree-coordinatorlayout-1.1.0-23 C:\Users\pc\.gradle\caches\transforms-3\b31503dc063181d5c897bbd39658b906\transformed\coordinatorlayout-1.1.0\res
+com.example.flutter_braintree-jetified-browser-switch-2.6.0-24 C:\Users\pc\.gradle\caches\transforms-3\b3e9f7e693a3c8ae3bd04da63c864271\transformed\jetified-browser-switch-2.6.0\res
+com.example.flutter_braintree-jetified-play-services-base-18.0.1-25 C:\Users\pc\.gradle\caches\transforms-3\bb4b68aba7f44f809f377418abdd10ea\transformed\jetified-play-services-base-18.0.1\res
+com.example.flutter_braintree-core-1.7.0-alpha01-26 C:\Users\pc\.gradle\caches\transforms-3\c7510ea5e2d73ddcfa35a24780de66f4\transformed\core-1.7.0-alpha01\res
+com.example.flutter_braintree-work-runtime-2.7.0-alpha05-27 C:\Users\pc\.gradle\caches\transforms-3\cae0b648f7deca55980041fb5e2878f2\transformed\work-runtime-2.7.0-alpha05\res
+com.example.flutter_braintree-jetified-emoji2-views-helper-1.0.0-alpha03-28 C:\Users\pc\.gradle\caches\transforms-3\d6d9ddb1cbf1c232966dee079257bacb\transformed\jetified-emoji2-views-helper-1.0.0-alpha03\res
+com.example.flutter_braintree-jetified-play-services-basement-18.0.0-29 C:\Users\pc\.gradle\caches\transforms-3\da2a8428f680a4d032b0de82b63a66d5\transformed\jetified-play-services-basement-18.0.0\res
+com.example.flutter_braintree-jetified-play-services-maps-18.0.2-30 C:\Users\pc\.gradle\caches\transforms-3\ee352b4c386a09d585571e2085e76388\transformed\jetified-play-services-maps-18.0.2\res
+com.example.flutter_braintree-jetified-startup-runtime-1.0.0-31 C:\Users\pc\.gradle\caches\transforms-3\f4ba394076f96e4bddca80dbd55f3b8b\transformed\jetified-startup-runtime-1.0.0\res
+com.example.flutter_braintree-material-1.4.0-32 C:\Users\pc\.gradle\caches\transforms-3\f756ef20b43bcf51eac958f66d46c5ca\transformed\material-1.4.0\res
+com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.7-5-33 C:\Users\pc\.gradle\caches\transforms-3\fb128e3169abffe558646508cc189922\transformed\jetified-cardinalmobilesdk-2.2.7-5\res
+com.example.flutter_braintree-recyclerview-1.2.1-34 C:\Users\pc\.gradle\caches\transforms-3\fe34563f74e5b1434fba1596b2943255\transformed\recyclerview-1.2.1\res
+com.example.flutter_braintree-main-35 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_braintree-4.0.0\android\src\main\res
+com.example.flutter_braintree-release-36 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_braintree-4.0.0\android\src\release\res
+com.example.flutter_braintree-pngs-37 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\flutter_braintree\generated\res\pngs\release
+com.example.flutter_braintree-resValues-38 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\flutter_braintree\generated\res\resValues\release
+com.example.flutter_braintree-rs-39 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\flutter_braintree\generated\res\rs\release
+com.example.flutter_braintree-mergeReleaseResources-40 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\flutter_braintree\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.flutter_braintree-mergeReleaseResources-41 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\flutter_braintree\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.flutter_braintree-merged_res-42 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\flutter_braintree\intermediates\merged_res\release

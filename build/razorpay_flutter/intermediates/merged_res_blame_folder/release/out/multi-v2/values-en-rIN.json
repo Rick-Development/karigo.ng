@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.razorpay.razorpay_flutter-mergeReleaseResources-22:/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\16671e9a0dc8bb7758f29f7e7b070d6e\\transformed\\jetified-play-services-wallet-18.1.3\\res\\values-en-rIN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "70",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "156",
+                        "endColumns": "74",
+                        "endOffsets": "226"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\c328488b04fa52f23ea43a1a63a2b737\\transformed\\core-1.8.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.razorpay.razorpay_flutter-merged_res-24:/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\16671e9a0dc8bb7758f29f7e7b070d6e\\transformed\\jetified-play-services-wallet-18.1.3\\res\\values-en-rIN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "70",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "156",
+                        "endColumns": "74",
+                        "endOffsets": "226"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\c328488b04fa52f23ea43a1a63a2b737\\transformed\\core-1.8.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

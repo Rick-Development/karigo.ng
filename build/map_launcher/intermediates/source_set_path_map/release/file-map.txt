@@ -1,0 +1,12 @@
+com.alexmiller.map_launcher-core-1.6.0-0 C:\Users\pc\.gradle\caches\transforms-3\3fedf5842523cd9fc298102904285530\transformed\core-1.6.0\res
+com.alexmiller.map_launcher-jetified-window-java-1.0.0-beta04-1 C:\Users\pc\.gradle\caches\transforms-3\442de09ab92293c78c5c19aacbbd7f12\transformed\jetified-window-java-1.0.0-beta04\res
+com.alexmiller.map_launcher-jetified-window-1.0.0-beta04-2 C:\Users\pc\.gradle\caches\transforms-3\559ec9c37ecef2466be623f3f873faf1\transformed\jetified-window-1.0.0-beta04\res
+com.alexmiller.map_launcher-jetified-annotation-experimental-1.1.0-3 C:\Users\pc\.gradle\caches\transforms-3\a8655e9331c960da978c657e5cfd26c7\transformed\jetified-annotation-experimental-1.1.0\res
+com.alexmiller.map_launcher-main-4 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.3.1\android\src\main\res
+com.alexmiller.map_launcher-release-5 C:\Users\pc\AppData\Local\Pub\Cache\hosted\pub.dev\map_launcher-3.3.1\android\src\release\res
+com.alexmiller.map_launcher-pngs-6 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\map_launcher\generated\res\pngs\release
+com.alexmiller.map_launcher-resValues-7 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\map_launcher\generated\res\resValues\release
+com.alexmiller.map_launcher-rs-8 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\map_launcher\generated\res\rs\release
+com.alexmiller.map_launcher-mergeReleaseResources-9 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\map_launcher\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.alexmiller.map_launcher-mergeReleaseResources-10 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\map_launcher\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.alexmiller.map_launcher-merged_res-11 E:\hyip\codecanyon-SajpPWm5-psx-multipurpose-classified-app-with-laravel-admin-panel\PSX-MPC( 1.4.6.1_Submit_8.7.24 )\Mobile Source\karigo\build\map_launcher\intermediates\merged_res\release

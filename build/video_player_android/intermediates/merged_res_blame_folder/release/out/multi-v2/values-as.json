@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-10:/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\c328488b04fa52f23ea43a1a63a2b737\\transformed\\core-1.8.0\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.videoplayer.video_player_android-merged_res-12:/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\c328488b04fa52f23ea43a1a63a2b737\\transformed\\core-1.8.0\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

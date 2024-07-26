@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290207559786",
+    "firebase_url": "https://karigo-main-default-rtdb.firebaseio.com",
+    "project_id": "karigo-main",
+    "storage_bucket": "karigo-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290207559786:android:234e12e1b5e92abf76da13",
+        "android_client_info": {
+          "package_name": "rickdevelopment.karigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290207559786-c9pfgdtehtb1dlk6pgj82o2uohedtl5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVIP5hn6vYndPpffhU1fD3_WvwLgq-Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290207559786-c9pfgdtehtb1dlk6pgj82o2uohedtl5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
